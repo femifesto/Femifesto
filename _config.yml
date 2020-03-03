@@ -1,8 +1,8 @@
 
 title: Femifesto
 description: 
-baseurl: "/femifesto" # the subpath of your site, e.g. /blog
-url: "http://hdlab.space/" # the base hostname & protocol for your site
+baseurl: "/Femifesto" # the subpath of your site, e.g. /blog
+url: "https://femifesto.github.io/" # the base hostname & protocol for your site
 github_repo: Femifesto # the GitHub repo name for your project
 github_username: femifesto
 
