@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/assets/favicon/mstile-150x150.png"/>
+            <square150x150logo src="https://github.com/femifesto/Femifesto/raw/master/assets/favicon/mstile-150x150.png"/>
             <TileColor>#712b41</TileColor>
         </tile>
     </msapplication>
