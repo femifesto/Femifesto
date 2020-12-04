@@ -11,8 +11,12 @@ social_username: femifesto2020
 
 theme_color: light
 
+
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
 
 collections:
     cantigas:
